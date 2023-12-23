@@ -1,3 +1,5 @@
+# Vuetify 3
+
 # essentials
 
 ## Project setup
@@ -67,4 +69,3 @@ bun run lint
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
-# vuetify
